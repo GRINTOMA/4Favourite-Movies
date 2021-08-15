@@ -1,0 +1,24 @@
+<div class="content">
+    <section class="grid-container">
+            <div *ngFor="
+                let movie of movies;
+                let i = index
+            " [attr.data-index]="i">
+                <button (click)="selectMovie(i)">Movie {{i + 1}}</button>
+            </div>
+        <div class="imgArea">
+                <img src = {{movies[index].mposter}} width = 150>
+        </div>
+        <div class="listArea">
+                <li>
+                    Movie Name:<br> {{movies[index].mname}}
+                 </li>
+                <br>
+                <li>Artist:<br> {{movies[index].martist}} </li>
+                <br>
+                <li>Genre:<br> {{movies[index].mgenre}}</li>
+                <br>
+                <li>Year Released:<br> {{movies[index].mreleased}}</li> 
+        </div>
+    </section>
+</div>

@@ -1,0 +1,33 @@
+{
+    "movieList": [
+    {
+        "mname" : "Star Wars: Episode V - The Empire Strikes Back",
+        "martist" : "Irvin Kershner",
+        "mgenre" : "Action",
+        "mreleased" : "June 20th, 1980",
+        "mposter" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1416%2F8662%2Fproducts%2Fempire_strikes_back_1980_original_film_art_2000x.jpg%3Fv%3D1579925333&f=1&nofb=1"
+    },
+    {
+        "mname" : "The Lord of the Rings: The Fellowship of the Ring",
+        "martist" : "Peter Jackson",
+        "mgenre" : "Adventure",
+        "mreleased" : "December 19th, 2001",
+        "mposter" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._3Lcy6Jji3qmVvVcKCAnzQHaKx%26pid%3DApi&f=1"
+    },
+    {
+        "mname" : "The Big Lebowski",
+        "martist" : "Joel Coen",
+        "mgenre" : "Comedy",
+        "mreleased" : "March 6th, 1998",
+        "mposter" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffanart.tv%2Ffanart%2Fmovies%2F115%2Fmovieposter%2Fthe-big-lebowski-522573215a402.jpg&f=1&nofb=1"
+    },
+    {
+        "mname" : "Avengers: Endgame",
+        "martist" : "Anthony Russo, Joe Russo",
+        "mgenre" : "Action",
+        "mreleased" : "April 26th, 2019",
+        "mposter" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fgj0fKa4jjwxZLmVq7I8tv13V45.jpg&f=1&nofb=1"
+    }
+    
+]
+}

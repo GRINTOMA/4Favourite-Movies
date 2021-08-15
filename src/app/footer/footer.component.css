@@ -1,0 +1,13 @@
+h3{  
+    position:fixed;
+    bottom:0;
+    width:100%;
+    font-style: italic; 
+    color:white;
+    text-align: center;
+    font-size: small;
+    background-color: grey;
+    height: 60;
+    padding: 0;
+    margin: 0;
+}
